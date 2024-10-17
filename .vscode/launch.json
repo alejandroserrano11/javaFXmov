@@ -6,7 +6,7 @@
             "name": "Launch App",
             "request": "launch",
             "mainClass": "modelo.App",
-            "vmArgs": "--module-path C:\\Users\\Daniel\\Desktop\\javafx-sdk-23\\lib --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path C:\\Users\\alese\\Desktop\\DAM\\javafx-sdk-23\\lib --add-modules javafx.controls,javafx.fxml",
         }
     ]
 }
